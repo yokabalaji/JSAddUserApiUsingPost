@@ -1,0 +1,16 @@
+.names{
+    font-family: 'Times New Roman', Times, serif;
+}
+.mail{
+    font-family: 'Times New Roman', Times, serif;
+}
+.emailErr{
+    color: red;
+
+}
+.nameErr{
+    color: red;
+}
+.ap{
+    color: red;
+}
